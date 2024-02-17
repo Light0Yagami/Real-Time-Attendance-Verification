@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e77b80da-800e-4004-8a73-6d34c3533083" name="Changes" comment="Till face recognition and checking it in encoded file is completed">
+    <list default="true" id="e77b80da-800e-4004-8a73-6d34c3533083" name="Changes" comment="face recognised correctly and frame/rectangle is created. Now its turn to create a suitable database">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/images/students_images_(studentIds)/2018267.png" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/images/students_images_(studentIds)/2018267.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/encodeFile.p" beforeDir="false" afterPath="$PROJECT_DIR$/encodeFile.p" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/encodeGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/encodeGenerator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708184516774</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="face recognised correctly and frame/rectangle is created. Now its turn to create a suitable database">
+      <option name="closed" value="true" />
+      <created>1708189798544</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708189798544</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Till face recognition and checking it in encoded file is completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Till face recognition and checking it in encoded file is completed" />
+    <MESSAGE value="face recognised correctly and frame/rectangle is created. Now its turn to create a suitable database" />
+    <option name="LAST_COMMIT_MESSAGE" value="face recognised correctly and frame/rectangle is created. Now its turn to create a suitable database" />
   </component>
 </project>
