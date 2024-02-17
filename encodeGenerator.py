@@ -15,7 +15,7 @@ for path in pathList:
 print(studentIds)
 
 def findEncodings(imageList):
-    encodeList =[]
+    encodeList = []
     for img in imageList:
         img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
         encode = face_recognition.face_encodings(img)[0]

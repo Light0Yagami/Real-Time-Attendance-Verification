@@ -4,25 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e77b80da-800e-4004-8a73-6d34c3533083" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Live-Attendance-Verification-System.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/images/background_image/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/images/students_images_(studentIds)/2018267.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/images/students_images_(studentIds)/852741.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/images/students_images_(studentIds)/963852.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/status/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/status/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/status/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/status/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dlib-19.24.1-cp311-cp311-win_amd64.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encodeFile.p" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encodeGenerator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="e77b80da-800e-4004-8a73-6d34c3533083" name="Changes" comment="Till face recognition and checking it in encoded file is completed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/images/students_images_(studentIds)/2018267.png" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/images/students_images_(studentIds)/2018267.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodeFile.p" beforeDir="false" afterPath="$PROJECT_DIR$/encodeFile.p" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encodeGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/encodeGenerator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -102,9 +92,31 @@
       <option name="presentableId" value="Default" />
       <updated>1707987020831</updated>
     </task>
+    <task id="LOCAL-00001" summary="Till face recognition and checking it in encoded file is completed">
+      <option name="closed" value="true" />
+      <created>1708184516774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708184516774</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Till face recognition and checking it in encoded file is completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Till face recognition and checking it in encoded file is completed" />
   </component>
 </project>
